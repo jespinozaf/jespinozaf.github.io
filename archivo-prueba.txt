@@ -1,3 +1,4 @@
 Nombre: Juan Espinoza
 Edad: 35
 País: Perú
+Colegiatura: 285225

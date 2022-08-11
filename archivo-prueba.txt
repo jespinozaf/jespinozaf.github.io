@@ -1,1 +1,3 @@
 Nombre: Juan Espinoza
+Edad: 35
+País: Perú
